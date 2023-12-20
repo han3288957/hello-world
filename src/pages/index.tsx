@@ -10,6 +10,7 @@ export default function HomePage() {
       <p>
         To get started, edit <code>pages/index.tsx</code> and save to reload.
       </p>
+      123
     </div>
   );
 }
